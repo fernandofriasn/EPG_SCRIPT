@@ -5,50 +5,25 @@
     <display-name>#Vamos Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/521</url>
   </channel>
-  <channel id="99991247">
-    <display-name>NBC News NOW</display-name>
-    <display-name>NBC News NOW</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991247</url>
-  </channel>
   <channel id="501">
     <display-name>18+ (Player-01)</display-name>
     <display-name>18+ (Player-01)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/501</url>
-  </channel>
-  <channel id="99991377">
-    <display-name>ABC News Live</display-name>
-    <display-name>ABC News Live</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991377</url>
   </channel>
   <channel id="502">
     <display-name>18+ (Player-02)</display-name>
     <display-name>18+ (Player-02)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/502</url>
   </channel>
-  <channel id="99991158">
-    <display-name>CBS News 24/7</display-name>
-    <display-name>CBS News 24/7</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991158</url>
-  </channel>
   <channel id="503">
     <display-name>18+ (Player-03)</display-name>
     <display-name>18+ (Player-03)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/503</url>
   </channel>
-  <channel id="99991635">
-    <display-name>LiveNOW from FOX</display-name>
-    <display-name>LiveNOW from FOX</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991635</url>
-  </channel>
   <channel id="504">
     <display-name>18+ (Player-04)</display-name>
     <display-name>18+ (Player-04)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/504</url>
-  </channel>
-  <channel id="99991282">
-    <display-name>Local Now</display-name>
-    <display-name>Local Now</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991282</url>
   </channel>
   <channel id="505">
     <display-name>18+ (Player-05)</display-name>
@@ -60,70 +35,35 @@
     <display-name>18+ (Player-06)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/506</url>
   </channel>
-  <channel id="99991245">
-    <display-name>TODAY All Day</display-name>
-    <display-name>TODAY All Day</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991245</url>
-  </channel>
   <channel id="507">
     <display-name>18+ (Player-07)</display-name>
     <display-name>18+ (Player-07)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/507</url>
-  </channel>
-  <channel id="99951197">
-    <display-name>Reuters 60</display-name>
-    <display-name>Reuters 60</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951197</url>
   </channel>
   <channel id="508">
     <display-name>18+ (Player-08)</display-name>
     <display-name>18+ (Player-08)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/508</url>
   </channel>
-  <channel id="99951223">
-    <display-name>Sky News</display-name>
-    <display-name>Sky News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951223</url>
-  </channel>
   <channel id="509">
     <display-name>18+ (Player-09)</display-name>
     <display-name>18+ (Player-09)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/509</url>
-  </channel>
-  <channel id="99991148">
-    <display-name>Scripps News</display-name>
-    <display-name>Scripps News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991148</url>
   </channel>
   <channel id="510">
     <display-name>18+ (Player-10)</display-name>
     <display-name>18+ (Player-10)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/510</url>
   </channel>
-  <channel id="99991194">
-    <display-name>Newsmax2</display-name>
-    <display-name>Newsmax2</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991194</url>
-  </channel>
   <channel id="511">
     <display-name>18+ (Player-11)</display-name>
     <display-name>18+ (Player-11)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/511</url>
   </channel>
-  <channel id="99991276">
-    <display-name>CBC News</display-name>
-    <display-name>CBC News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991276</url>
-  </channel>
   <channel id="512">
     <display-name>18+ (Player-12)</display-name>
     <display-name>18+ (Player-12)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/512</url>
-  </channel>
-  <channel id="99991147">
-    <display-name>TYT</display-name>
-    <display-name>TYT</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991147</url>
   </channel>
   <channel id="513">
     <display-name>18+ (Player-13)</display-name>
@@ -135,90 +75,45 @@
     <display-name>18+ (Player-14)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/514</url>
   </channel>
-  <channel id="99991220">
-    <display-name>Cheddar News</display-name>
-    <display-name>Cheddar News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991220</url>
-  </channel>
   <channel id="515">
     <display-name>18+ (Player-15)</display-name>
     <display-name>18+ (Player-15)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/515</url>
-  </channel>
-  <channel id="99991287">
-    <display-name>USA TODAY News</display-name>
-    <display-name>USA TODAY News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991287</url>
   </channel>
   <channel id="516">
     <display-name>18+ (Player-16)</display-name>
     <display-name>18+ (Player-16)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/516</url>
   </channel>
-  <channel id="99951283">
-    <display-name>Salem News Channel</display-name>
-    <display-name>Salem News Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951283</url>
-  </channel>
   <channel id="517">
     <display-name>18+ (Player-17)</display-name>
     <display-name>18+ (Player-17)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/517</url>
-  </channel>
-  <channel id="99951298">
-    <display-name>BBC News</display-name>
-    <display-name>BBC News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951298</url>
   </channel>
   <channel id="518">
     <display-name>18+ (Player-18)</display-name>
     <display-name>18+ (Player-18)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/518</url>
   </channel>
-  <channel id="99951337">
-    <display-name>Spectrum News+</display-name>
-    <display-name>Spectrum News+</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951337</url>
-  </channel>
   <channel id="519">
     <display-name>18+ (Player-19)</display-name>
     <display-name>18+ (Player-19)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/519</url>
-  </channel>
-  <channel id="99991694">
-    <display-name>Fox Weather</display-name>
-    <display-name>Fox Weather</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991694</url>
   </channel>
   <channel id="520">
     <display-name>18+ (Player-20)</display-name>
     <display-name>18+ (Player-20)</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/520</url>
   </channel>
-  <channel id="99991649">
-    <display-name>AccuWeather NOW</display-name>
-    <display-name>AccuWeather NOW</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991649</url>
-  </channel>
   <channel id="857">
     <display-name>20 Mediaset Italy</display-name>
     <display-name>20 Mediaset Italy</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/857</url>
   </channel>
-  <channel id="99951404">
-    <display-name>OAN Plus</display-name>
-    <display-name>OAN Plus</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951404</url>
-  </channel>
   <channel id="726">
     <display-name>3sat DE</display-name>
     <display-name>3sat DE</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/726</url>
-  </channel>
-  <channel id="99951386">
-    <display-name>CNN Headlines</display-name>
-    <display-name>CNN Headlines</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951386</url>
   </channel>
   <channel id="360">
     <display-name>5 USA</display-name>
@@ -1110,110 +1005,55 @@
     <display-name>Cosmote Sport 9 HD</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/630</url>
   </channel>
-  <channel id="99991299">
-    <display-name>Xumo Free Movies</display-name>
-    <display-name>Xumo Free Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991299</url>
-  </channel>
   <channel id="281">
     <display-name>Court TV USA</display-name>
     <display-name>Court TV USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/281</url>
-  </channel>
-  <channel id="99991352">
-    <display-name>Xumo Free Action Movies</display-name>
-    <display-name>Xumo Free Action Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991352</url>
   </channel>
   <channel id="748">
     <display-name>COZI TV USA</display-name>
     <display-name>COZI TV USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/748</url>
   </channel>
-  <channel id="99991397">
-    <display-name>Xumo Free Westerns</display-name>
-    <display-name>Xumo Free Westerns</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991397</url>
-  </channel>
   <channel id="669">
     <display-name>Crime+ Investigation USA</display-name>
     <display-name>Crime+ Investigation USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/669</url>
-  </channel>
-  <channel id="99991350">
-    <display-name>Xumo Free Horror &amp; Thriller Movies</display-name>
-    <display-name>Xumo Free Horror &amp; Thriller Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991350</url>
   </channel>
   <channel id="838">
     <display-name>CTV 2 Canada</display-name>
     <display-name>CTV 2 Canada</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/838</url>
   </channel>
-  <channel id="99991362">
-    <display-name>Xumo Free Sci-Fi &amp; Fantasy Movies</display-name>
-    <display-name>Xumo Free Sci-Fi &amp; Fantasy Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991362</url>
-  </channel>
   <channel id="602">
     <display-name>CTV Canada</display-name>
     <display-name>CTV Canada</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/602</url>
-  </channel>
-  <channel id="99991125">
-    <display-name>Xumo Her Free Movies</display-name>
-    <display-name>Xumo Her Free Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991125</url>
   </channel>
   <channel id="535">
     <display-name>Cuatro Spain</display-name>
     <display-name>Cuatro Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/535</url>
   </channel>
-  <channel id="99991392">
-    <display-name>Xumo Free Documentaries</display-name>
-    <display-name>Xumo Free Documentaries</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991392</url>
-  </channel>
   <channel id="280">
     <display-name>CW PIX 11 USA</display-name>
     <display-name>CW PIX 11 USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/280</url>
-  </channel>
-  <channel id="99991351">
-    <display-name>Xumo Free Comedy Movies</display-name>
-    <display-name>Xumo Free Comedy Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991351</url>
   </channel>
   <channel id="300">
     <display-name>CW USA</display-name>
     <display-name>CW USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/300</url>
   </channel>
-  <channel id="99991363">
-    <display-name>Xumo Free Black Cinema</display-name>
-    <display-name>Xumo Free Black Cinema</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991363</url>
-  </channel>
   <channel id="911">
     <display-name>Cytavision Sports 1 Cyprus</display-name>
     <display-name>Cytavision Sports 1 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/911</url>
   </channel>
-  <channel id="99991709">
-    <display-name>Hallmark Movies &amp; More</display-name>
-    <display-name>Hallmark Movies &amp; More</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991709</url>
-  </channel>
   <channel id="912">
     <display-name>Cytavision Sports 2 Cyprus</display-name>
     <display-name>Cytavision Sports 2 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/912</url>
-  </channel>
-  <channel id="99951251">
-    <display-name>MovieSphere by Lionsgate</display-name>
-    <display-name>MovieSphere by Lionsgate</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951251</url>
   </channel>
   <channel id="913">
     <display-name>Cytavision Sports 3 Cyprus</display-name>
@@ -1225,40 +1065,20 @@
     <display-name>Cytavision Sports 4 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/914</url>
   </channel>
-  <channel id="99991302">
-    <display-name>Hi-Yah!</display-name>
-    <display-name>Hi-Yah!</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991302</url>
-  </channel>
   <channel id="915">
     <display-name>Cytavision Sports 5 Cyprus</display-name>
     <display-name>Cytavision Sports 5 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/915</url>
-  </channel>
-  <channel id="9995106">
-    <display-name>Shades of Black</display-name>
-    <display-name>Shades of Black</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995106</url>
   </channel>
   <channel id="916">
     <display-name>Cytavision Sports 6 Cyprus</display-name>
     <display-name>Cytavision Sports 6 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/916</url>
   </channel>
-  <channel id="99991312">
-    <display-name>Gravitas Movies</display-name>
-    <display-name>Gravitas Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991312</url>
-  </channel>
   <channel id="917">
     <display-name>Cytavision Sports 7 Cyprus</display-name>
     <display-name>Cytavision Sports 7 Cyprus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/917</url>
-  </channel>
-  <channel id="99991638">
-    <display-name>DOCUMENTARY+</display-name>
-    <display-name>DOCUMENTARY+</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991638</url>
   </channel>
   <channel id="348">
     <display-name>Dave</display-name>
@@ -1270,40 +1090,20 @@
     <display-name>DAZN 1 Bar DE</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/426</url>
   </channel>
-  <channel id="99991399">
-    <display-name>CineLife</display-name>
-    <display-name>CineLife</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991399</url>
-  </channel>
   <channel id="445">
     <display-name>DAZN 1 Spain</display-name>
     <display-name>DAZN 1 Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/445</url>
-  </channel>
-  <channel id="99991300">
-    <display-name>Stash TV</display-name>
-    <display-name>Stash TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991300</url>
   </channel>
   <channel id="230">
     <display-name>DAZN 1 UK</display-name>
     <display-name>DAZN 1 UK</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/230</url>
   </channel>
-  <channel id="99991745">
-    <display-name>Wu Tang Collection TV</display-name>
-    <display-name>Wu Tang Collection TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991745</url>
-  </channel>
   <channel id="427">
     <display-name>DAZN 2 Bar DE</display-name>
     <display-name>DAZN 2 Bar DE</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/427</url>
-  </channel>
-  <channel id="99951293">
-    <display-name>Ebony TV by Lionsgate</display-name>
-    <display-name>Ebony TV by Lionsgate</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951293</url>
   </channel>
   <channel id="446">
     <display-name>DAZN 2 Spain</display-name>
@@ -1315,20 +1115,10 @@
     <display-name>DAZN 3 Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/447</url>
   </channel>
-  <channel id="99991337">
-    <display-name>FilmRise Horror</display-name>
-    <display-name>FilmRise Horror</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991337</url>
-  </channel>
   <channel id="448">
     <display-name>DAZN 4 Spain</display-name>
     <display-name>DAZN 4 Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/448</url>
-  </channel>
-  <channel id="99991336">
-    <display-name>Maverick Black Cinema</display-name>
-    <display-name>Maverick Black Cinema</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991336</url>
   </channel>
   <channel id="537">
     <display-name>DAZN F1 ES</display-name>
@@ -1340,40 +1130,20 @@
     <display-name>DAZN LaLiga</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/538</url>
   </channel>
-  <channel id="99951335">
-    <display-name>CINEVAULT</display-name>
-    <display-name>CINEVAULT</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951335</url>
-  </channel>
   <channel id="651">
     <display-name>Destination America</display-name>
     <display-name>Destination America</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/651</url>
-  </channel>
-  <channel id="99991621">
-    <display-name>Universal Movies</display-name>
-    <display-name>Universal Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991621</url>
   </channel>
   <channel id="482">
     <display-name>Diema Bulgaria</display-name>
     <display-name>Diema Bulgaria</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/482</url>
   </channel>
-  <channel id="99951382">
-    <display-name>HerSphere by Lionsgate</display-name>
-    <display-name>HerSphere by Lionsgate</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951382</url>
-  </channel>
   <channel id="485">
     <display-name>Diema Family Bulgaria</display-name>
     <display-name>Diema Family Bulgaria</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/485</url>
-  </channel>
-  <channel id="99951411">
-    <display-name>Shout! Movies</display-name>
-    <display-name>Shout! Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951411</url>
   </channel>
   <channel id="466">
     <display-name>Diema Sport 2 Bulgaria</display-name>
@@ -1479,11 +1249,6 @@
     <display-name>Dubai Racing 2 UAE</display-name>
     <display-name>Dubai Racing 2 UAE</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/608</url>
-  </channel>
-  <channel id="99991334">
-    <display-name>Movies Page - DRM</display-name>
-    <display-name>Movies Page - DRM</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991334</url>
   </channel>
   <channel id="604">
     <display-name>Dubai Sports 1 UAE</display-name>
@@ -1610,100 +1375,50 @@
     <display-name>ESPN2 USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/45</url>
   </channel>
-  <channel id="99951239">
-    <display-name>She Wrote</display-name>
-    <display-name>Murder, She Wrote</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951239</url>
-  </channel>
   <channel id="83">
     <display-name>ESPN3 Brasil</display-name>
     <display-name>ESPN3 Brasil</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/83</url>
-  </channel>
-  <channel id="99951277">
-    <display-name>Ghost Hunters Channel</display-name>
-    <display-name>Ghost Hunters Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951277</url>
   </channel>
   <channel id="85">
     <display-name>ESPN4 Brasil</display-name>
     <display-name>ESPN4 Brasil</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/85</url>
   </channel>
-  <channel id="99951218">
-    <display-name>Xumo Free Nature &amp; Wildlife TV</display-name>
-    <display-name>Xumo Free Nature &amp; Wildlife TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951218</url>
-  </channel>
   <channel id="288">
     <display-name>ESPNews</display-name>
     <display-name>ESPNews</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/288</url>
-  </channel>
-  <channel id="99991113">
-    <display-name>Deal Or No Deal</display-name>
-    <display-name>Deal Or No Deal</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991113</url>
   </channel>
   <channel id="316">
     <display-name>ESPNU USA</display-name>
     <display-name>ESPNU USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/316</url>
   </channel>
-  <channel id="99951192">
-    <display-name>Anger Management Channel</display-name>
-    <display-name>Anger Management Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951192</url>
-  </channel>
   <channel id="469">
     <display-name>Eurosport 1 Bulgaria</display-name>
     <display-name>Eurosport 1 Bulgaria</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/469</url>
-  </channel>
-  <channel id="99951258">
-    <display-name>The Lone Ranger</display-name>
-    <display-name>The Lone Ranger</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951258</url>
   </channel>
   <channel id="772">
     <display-name>Eurosport 1 France</display-name>
     <display-name>Eurosport 1 France</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/772</url>
   </channel>
-  <channel id="99991346">
-    <display-name>Divorce Court</display-name>
-    <display-name>Divorce Court</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991346</url>
-  </channel>
   <channel id="878">
     <display-name>EuroSport 1 Italy</display-name>
     <display-name>EuroSport 1 Italy</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/878</url>
-  </channel>
-  <channel id="9995114">
-    <display-name>Heartland</display-name>
-    <display-name>Heartland</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995114</url>
   </channel>
   <channel id="57">
     <display-name>EuroSport 1 Poland</display-name>
     <display-name>EuroSport 1 Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/57</url>
   </channel>
-  <channel id="99951158">
-    <display-name>ION</display-name>
-    <display-name>ION</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951158</url>
-  </channel>
   <channel id="524">
     <display-name>EuroSport 1 Spain</display-name>
     <display-name>EuroSport 1 Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/524</url>
-  </channel>
-  <channel id="99991623">
-    <display-name>The Walking Dead Universe</display-name>
-    <display-name>The Walking Dead Universe</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991623</url>
   </channel>
   <channel id="41">
     <display-name>EuroSport 1 UK</display-name>
@@ -1800,60 +1515,30 @@
     <display-name>FOX Soccer Plus</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/756</url>
   </channel>
-  <channel id="99951248">
-    <display-name>Classic Doctor Who</display-name>
-    <display-name>Classic Doctor Who</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951248</url>
-  </channel>
   <channel id="39">
     <display-name>Fox Sports 1 USA</display-name>
     <display-name>Fox Sports 1 USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/39</url>
-  </channel>
-  <channel id="99951250">
-    <display-name>OuterSphere by Lionsgate</display-name>
-    <display-name>OuterSphere by Lionsgate</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951250</url>
   </channel>
   <channel id="788">
     <display-name>Fox Sports 2 Argentina</display-name>
     <display-name>Fox Sports 2 Argentina</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/788</url>
   </channel>
-  <channel id="99951256">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951256</url>
-  </channel>
   <channel id="758">
     <display-name>Fox Sports 2 USA</display-name>
     <display-name>Fox Sports 2 USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/758</url>
-  </channel>
-  <channel id="99991292">
-    <display-name>Alien Nation by DUST</display-name>
-    <display-name>Alien Nation by DUST</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991292</url>
   </channel>
   <channel id="789">
     <display-name>Fox Sports 3 Argentina</display-name>
     <display-name>Fox Sports 3 Argentina</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/789</url>
   </channel>
-  <channel id="99991331">
-    <display-name>The Asylum</display-name>
-    <display-name>The Asylum</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991331</url>
-  </channel>
   <channel id="820">
     <display-name>FOX Sports 502 AU</display-name>
     <display-name>FOX Sports 502 AU</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/820</url>
-  </channel>
-  <channel id="9999615">
-    <display-name>Dark Matter TV</display-name>
-    <display-name>Dark Matter TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9999615</url>
   </channel>
   <channel id="821">
     <display-name>FOX Sports 503 AU</display-name>
@@ -1870,11 +1555,6 @@
     <display-name>FOX Sports 505 AU</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/823</url>
   </channel>
-  <channel id="99991769">
-    <display-name>Paranormal Files</display-name>
-    <display-name>Paranormal Files</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991769</url>
-  </channel>
   <channel id="824">
     <display-name>FOX Sports 506 AU</display-name>
     <display-name>FOX Sports 506 AU</display-name>
@@ -1885,60 +1565,30 @@
     <display-name>FOX Sports 507 AU</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/825</url>
   </channel>
-  <channel id="99951264">
-    <display-name>Universal Monsters</display-name>
-    <display-name>Universal Monsters</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951264</url>
-  </channel>
   <channel id="830">
     <display-name>Fox Sports Premium MX</display-name>
     <display-name>Fox Sports Premium MX</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/830</url>
-  </channel>
-  <channel id="99951349">
-    <display-name>Scares by Shudder</display-name>
-    <display-name>Scares by Shudder</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951349</url>
   </channel>
   <channel id="54">
     <display-name>FOX USA</display-name>
     <display-name>FOX USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/54</url>
   </channel>
-  <channel id="99951375">
-    <display-name>Haunt TV</display-name>
-    <display-name>Haunt TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951375</url>
-  </channel>
   <channel id="775">
     <display-name>Fox Weather Channel</display-name>
     <display-name>Fox Weather Channel</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/775</url>
-  </channel>
-  <channel id="99951377">
-    <display-name>AMC Thrillers</display-name>
-    <display-name>AMC Thrillers</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951377</url>
   </channel>
   <channel id="768">
     <display-name>FOXNY USA</display-name>
     <display-name>FOXNY USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/768</url>
   </channel>
-  <channel id="99951391">
-    <display-name>Ghosts Are Real</display-name>
-    <display-name>Ghosts Are Real</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951391</url>
-  </channel>
   <channel id="301">
     <display-name>Freeform</display-name>
     <display-name>Freeform</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/301</url>
-  </channel>
-  <channel id="99951398">
-    <display-name>Mysterious Worlds</display-name>
-    <display-name>Mysterious Worlds</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951398</url>
   </channel>
   <channel id="279">
     <display-name>FUSE TV USA</display-name>
@@ -2355,40 +2005,20 @@
     <display-name>MSG USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/765</url>
   </channel>
-  <channel id="99951253">
-    <display-name>NBC Sports NOW</display-name>
-    <display-name>NBC Sports NOW</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951253</url>
-  </channel>
   <channel id="327">
     <display-name>MSNBC</display-name>
     <display-name>MSNBC</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/327</url>
-  </channel>
-  <channel id="99991196">
-    <display-name>FOX Sports</display-name>
-    <display-name>FOX Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991196</url>
   </channel>
   <channel id="806">
     <display-name>MTV Denmark</display-name>
     <display-name>MTV Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/806</url>
   </channel>
-  <channel id="99991645">
-    <display-name>CBS Sports HQ</display-name>
-    <display-name>CBS Sports HQ</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991645</url>
-  </channel>
   <channel id="367">
     <display-name>MTV UK</display-name>
     <display-name>MTV UK</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/367</url>
-  </channel>
-  <channel id="99991738">
-    <display-name>NFL Channel</display-name>
-    <display-name>NFL Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991738</url>
   </channel>
   <channel id="371">
     <display-name>MTV USA</display-name>
@@ -2410,11 +2040,6 @@
     <display-name>MY9TV USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/654</url>
   </channel>
-  <channel id="99991281">
-    <display-name>PGA TOUR</display-name>
-    <display-name>PGA TOUR</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991281</url>
-  </channel>
   <channel id="745">
     <display-name>Nat Geo Wild USA</display-name>
     <display-name>Nat Geo Wild USA</display-name>
@@ -2430,20 +2055,10 @@
     <display-name>NBA TV USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/404</url>
   </channel>
-  <channel id="99951364">
-    <display-name>ACC Digital Network</display-name>
-    <display-name>ACC Digital Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951364</url>
-  </channel>
   <channel id="753">
     <display-name>NBC Sports Bay Area</display-name>
     <display-name>NBC Sports Bay Area</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/753</url>
-  </channel>
-  <channel id="99991317">
-    <display-name>World Poker Tour</display-name>
-    <display-name>World Poker Tour</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991317</url>
   </channel>
   <channel id="754">
     <display-name>NBC Sports Boston</display-name>
@@ -2455,90 +2070,45 @@
     <display-name>NBC Sports California</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/755</url>
   </channel>
-  <channel id="99991358">
-    <display-name>WaypointTV</display-name>
-    <display-name>WaypointTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991358</url>
-  </channel>
   <channel id="776">
     <display-name>NBC Sports Chicago</display-name>
     <display-name>NBC Sports Chicago</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/776</url>
-  </channel>
-  <channel id="99991374">
-    <display-name>Outdoor America</display-name>
-    <display-name>Outdoor America</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991374</url>
   </channel>
   <channel id="777">
     <display-name>NBC Sports Philadelphia</display-name>
     <display-name>NBC Sports Philadelphia</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/777</url>
   </channel>
-  <channel id="99991387">
-    <display-name>beIN SPORTS XTRA</display-name>
-    <display-name>beIN SPORTS XTRA</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991387</url>
-  </channel>
   <channel id="778">
     <display-name>NBC Sports Washington</display-name>
     <display-name>NBC Sports Washington</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/778</url>
-  </channel>
-  <channel id="99991633">
-    <display-name>PokerGO</display-name>
-    <display-name>PokerGO</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991633</url>
   </channel>
   <channel id="53">
     <display-name>NBC USA</display-name>
     <display-name>NBC USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/53</url>
   </channel>
-  <channel id="8111111">
-    <display-name>Billiard TV</display-name>
-    <display-name>Billiard TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/8111111</url>
-  </channel>
   <channel id="277">
     <display-name>NBC10 Philadelphia</display-name>
     <display-name>NBC10 Philadelphia</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/277</url>
-  </channel>
-  <channel id="99951265">
-    <display-name>DraftKings Network</display-name>
-    <display-name>DraftKings Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951265</url>
   </channel>
   <channel id="769">
     <display-name>NBCNY USA</display-name>
     <display-name>NBCNY USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/769</url>
   </channel>
-  <channel id="99951266">
-    <display-name>FanDuel TV Extra</display-name>
-    <display-name>FanDuel TV Extra</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951266</url>
-  </channel>
   <channel id="736">
     <display-name>NDR DE</display-name>
     <display-name>NDR DE</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/736</url>
   </channel>
-  <channel id="99991648">
-    <display-name>PursuitUp</display-name>
-    <display-name>PursuitUp</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991648</url>
-  </channel>
   <channel id="762">
     <display-name>NESN USA</display-name>
     <display-name>NESN USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/762</url>
-  </channel>
-  <channel id="99991660">
-    <display-name>GOLFPASS</display-name>
-    <display-name>GOLFPASS</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991660</url>
   </channel>
   <channel id="771">
     <display-name>New! CWPIX 11</display-name>
@@ -2570,150 +2140,75 @@
     <display-name>NICK JR</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/329</url>
   </channel>
-  <channel id="99951180">
-    <display-name>Strongman Champions League</display-name>
-    <display-name>Strongman Champions League</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951180</url>
-  </channel>
   <channel id="649">
     <display-name>Nicktoons</display-name>
     <display-name>Nicktoons</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/649</url>
-  </channel>
-  <channel id="99951360">
-    <display-name>CHGO Sports</display-name>
-    <display-name>CHGO Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951360</url>
   </channel>
   <channel id="835">
     <display-name>Noovo CA</display-name>
     <display-name>Noovo CA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/835</url>
   </channel>
-  <channel id="99951361">
-    <display-name>DNVR Sports</display-name>
-    <display-name>DNVR Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951361</url>
-  </channel>
   <channel id="468">
     <display-name>Nova Sport Bulgaria</display-name>
     <display-name>Nova Sport Bulgaria</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/468</url>
-  </channel>
-  <channel id="99951362">
-    <display-name>PHLY Sports</display-name>
-    <display-name>PHLY Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951362</url>
   </channel>
   <channel id="582">
     <display-name>Nova Sport Serbia</display-name>
     <display-name>Nova Sport Serbia</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/582</url>
   </channel>
-  <channel id="99951363">
-    <display-name>PHNX Sports</display-name>
-    <display-name>PHNX Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951363</url>
-  </channel>
   <channel id="631">
     <display-name>Nova Sports 1 Greece</display-name>
     <display-name>Nova Sports 1 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/631</url>
-  </channel>
-  <channel id="99951365">
-    <display-name>Big 12 Studios</display-name>
-    <display-name>Big 12 Studios</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951365</url>
   </channel>
   <channel id="632">
     <display-name>Nova Sports 2 Greece</display-name>
     <display-name>Nova Sports 2 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/632</url>
   </channel>
-  <channel id="99951369">
-    <display-name>Unbeaten Sports Channel</display-name>
-    <display-name>Unbeaten Sports Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951369</url>
-  </channel>
   <channel id="633">
     <display-name>Nova Sports 3 Greece</display-name>
     <display-name>Nova Sports 3 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/633</url>
-  </channel>
-  <channel id="99951373">
-    <display-name>Ryz Sports Network</display-name>
-    <display-name>Ryz Sports Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951373</url>
   </channel>
   <channel id="634">
     <display-name>Nova Sports 4 Greece</display-name>
     <display-name>Nova Sports 4 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/634</url>
   </channel>
-  <channel id="99951381">
-    <display-name>Real Madrid TV</display-name>
-    <display-name>Real Madrid TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951381</url>
-  </channel>
   <channel id="635">
     <display-name>Nova Sports 5 Greece</display-name>
     <display-name>Nova Sports 5 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/635</url>
-  </channel>
-  <channel id="99951389">
-    <display-name>TennisChannel 2</display-name>
-    <display-name>TennisChannel 2</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951389</url>
   </channel>
   <channel id="636">
     <display-name>Nova Sports 6 Greece</display-name>
     <display-name>Nova Sports 6 Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/636</url>
   </channel>
-  <channel id="99951390">
-    <display-name>PickleballTV</display-name>
-    <display-name>PickleballTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951390</url>
-  </channel>
   <channel id="639">
     <display-name>Nova Sports News Greece</display-name>
     <display-name>Nova Sports News Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/639</url>
-  </channel>
-  <channel id="99951383">
-    <display-name>The NBA Channel</display-name>
-    <display-name>The NBA Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951383</url>
   </channel>
   <channel id="599">
     <display-name>Nova Sports Premier League Greece</display-name>
     <display-name>Nova Sports Premier League Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/599</url>
   </channel>
-  <channel id="99951406">
-    <display-name>Willow Sports</display-name>
-    <display-name>Willow Sports</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951406</url>
-  </channel>
   <channel id="638">
     <display-name>Nova Sports Prime Greece</display-name>
     <display-name>Nova Sports Prime Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/638</url>
   </channel>
-  <channel id="99951388">
-    <display-name>PBR RidePass</display-name>
-    <display-name>PBR RidePass</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951388</url>
-  </channel>
   <channel id="637">
     <display-name>Nova Sports Start Greece</display-name>
     <display-name>Nova Sports Start Greece</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/637</url>
-  </channel>
-  <channel id="99951399">
-    <display-name>Bleacher Report Sports Network</display-name>
-    <display-name>Bleacher Report Sports Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951399</url>
   </channel>
   <channel id="480">
     <display-name>Nova TV Bulgaria</display-name>
@@ -3010,70 +2505,35 @@
     <display-name>SEE Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/811</url>
   </channel>
-  <channel id="99951132">
-    <display-name>Fight Network</display-name>
-    <display-name>Fight Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951132</url>
-  </channel>
   <channel id="792">
     <display-name>Showtime 2 USA (SHO2) USA</display-name>
     <display-name>Showtime 2 USA (SHO2) USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/792</url>
-  </channel>
-  <channel id="99951134">
-    <display-name>UFC</display-name>
-    <display-name>UFC</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951134</url>
   </channel>
   <channel id="794">
     <display-name>Showtime Extreme USA</display-name>
     <display-name>Showtime Extreme USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/794</url>
   </channel>
-  <channel id="99951154">
-    <display-name>Boxing TV</display-name>
-    <display-name>Boxing TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951154</url>
-  </channel>
   <channel id="795">
     <display-name>Showtime Family Zone (SHO Family Zone) USA</display-name>
     <display-name>Showtime Family Zone (SHO Family Zone) USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/795</url>
-  </channel>
-  <channel id="99951203">
-    <display-name>PFL MMA</display-name>
-    <display-name>PFL MMA</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951203</url>
   </channel>
   <channel id="796">
     <display-name>Showtime Next (SHO Next) USA</display-name>
     <display-name>Showtime Next (SHO Next) USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/796</url>
   </channel>
-  <channel id="99991278">
-    <display-name>GLORY Kickboxing</display-name>
-    <display-name>GLORY Kickboxing</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991278</url>
-  </channel>
   <channel id="793">
     <display-name>Showtime Showcase USA</display-name>
     <display-name>Showtime Showcase USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/793</url>
   </channel>
-  <channel id="99991341">
-    <display-name>TNA Wrestling Channel</display-name>
-    <display-name>TNA Wrestling Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991341</url>
-  </channel>
   <channel id="333">
     <display-name>Showtime USA</display-name>
     <display-name>Showtime USA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/333</url>
-  </channel>
-  <channel id="99991696">
-    <display-name>Swerve Combat</display-name>
-    <display-name>Swerve Combat</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991696</url>
   </channel>
   <channel id="797">
     <display-name>Showtime Women USA</display-name>
@@ -3545,80 +3005,40 @@
     <display-name>Sport TV3 Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/454</url>
   </channel>
-  <channel id="99951438">
-    <display-name>MotorTrend FAST TV</display-name>
-    <display-name>MotorTrend FAST TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951438</url>
-  </channel>
   <channel id="289">
     <display-name>Sport TV4 Portugal</display-name>
     <display-name>Sport TV4 Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/289</url>
-  </channel>
-  <channel id="99991291">
-    <display-name>PowerNation</display-name>
-    <display-name>PowerNation</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991291</url>
   </channel>
   <channel id="290">
     <display-name>Sport TV5 Portugal</display-name>
     <display-name>Sport TV5 Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/290</url>
   </channel>
-  <channel id="99991325">
-    <display-name>Motorvision</display-name>
-    <display-name>Motorvision</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991325</url>
-  </channel>
   <channel id="291">
     <display-name>Sport TV6 Portugal</display-name>
     <display-name>Sport TV6 Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/291</url>
-  </channel>
-  <channel id="99951207">
-    <display-name>Fifth Gear</display-name>
-    <display-name>Fifth Gear</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951207</url>
   </channel>
   <channel id="641">
     <display-name>Sport1 Germany</display-name>
     <display-name>Sport1 Germany</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/641</url>
   </channel>
-  <channel id="99951249">
-    <display-name>Top Gear</display-name>
-    <display-name>Top Gear</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951249</url>
-  </channel>
   <channel id="640">
     <display-name>Sport1+ Germany</display-name>
     <display-name>Sport1+ Germany</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/640</url>
-  </channel>
-  <channel id="99951268">
-    <display-name>SPEEDVISION</display-name>
-    <display-name>SPEEDVISION</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951268</url>
   </channel>
   <channel id="571">
     <display-name>SportDigital Fussball</display-name>
     <display-name>SportDigital Fussball</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/571</url>
   </channel>
-  <channel id="99951269">
-    <display-name>RACER Select</display-name>
-    <display-name>RACER Select</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951269</url>
-  </channel>
   <channel id="716">
     <display-name>Sporting TV Portugal</display-name>
     <display-name>Sporting TV Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/716</url>
-  </channel>
-  <channel id="99951413">
-    <display-name>NASCAR Channel</display-name>
-    <display-name>NASCAR Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951413</url>
   </channel>
   <channel id="409">
     <display-name>Sportsnet 360</display-name>
@@ -4085,70 +3505,35 @@
     <display-name>TV2 Sport X Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/808</url>
   </channel>
-  <channel id="99991384">
-    <display-name>Xumo Free Crime TV</display-name>
-    <display-name>Xumo Free Crime TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991384</url>
-  </channel>
   <channel id="818">
     <display-name>TV2 Zulu</display-name>
     <display-name>TV2 Zulu</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/818</url>
-  </channel>
-  <channel id="99991626">
-    <display-name>Dateline 24/7</display-name>
-    <display-name>Dateline 24/7</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991626</url>
   </channel>
   <channel id="223">
     <display-name>TV3 Max Denmark</display-name>
     <display-name>TV3 Max Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/223</url>
   </channel>
-  <channel id="99991680">
-    <display-name>Unsolved Mysteries</display-name>
-    <display-name>Unsolved Mysteries</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991680</url>
-  </channel>
   <channel id="809">
     <display-name>TV3 Sport Denmark</display-name>
     <display-name>TV3 Sport Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/809</url>
-  </channel>
-  <channel id="99951234">
-    <display-name>Oxygen True Crime Archives</display-name>
-    <display-name>Oxygen True Crime Archives</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951234</url>
   </channel>
   <channel id="819">
     <display-name>TV3+ Denmark</display-name>
     <display-name>TV3+ Denmark</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/819</url>
   </channel>
-  <channel id="99951245">
-    <display-name>Universal Crime</display-name>
-    <display-name>Universal Crime</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951245</url>
-  </channel>
   <channel id="833">
     <display-name>TVA Sports</display-name>
     <display-name>TVA Sports</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/833</url>
   </channel>
-  <channel id="99951246">
-    <display-name>American Crimes</display-name>
-    <display-name>American Crimes</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951246</url>
-  </channel>
   <channel id="834">
     <display-name>TVA Sports 2</display-name>
     <display-name>TVA Sports 2</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/834</url>
-  </channel>
-  <channel id="99991320">
-    <display-name>Law&amp;Crime</display-name>
-    <display-name>Law&amp;Crime</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991320</url>
   </channel>
   <channel id="533">
     <display-name>TVE La 1 Spain</display-name>
@@ -4160,70 +3545,35 @@
     <display-name>TVE La 2 Spain</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/536</url>
   </channel>
-  <channel id="99991367">
-    <display-name>Forensic Files</display-name>
-    <display-name>Forensic Files</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991367</url>
-  </channel>
   <channel id="723">
     <display-name>TVI Portugal</display-name>
     <display-name>TVI Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/723</url>
-  </channel>
-  <channel id="99991368">
-    <display-name>REELZ Famous &amp; Infamous</display-name>
-    <display-name>REELZ Famous &amp; Infamous</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991368</url>
   </channel>
   <channel id="724">
     <display-name>TVI Reality Portugal</display-name>
     <display-name>TVI Reality Portugal</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/724</url>
   </channel>
-  <channel id="99951157">
-    <display-name>ION Mystery</display-name>
-    <display-name>ION Mystery</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951157</url>
-  </channel>
   <channel id="342">
     <display-name>TVLAND</display-name>
     <display-name>TVLAND</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/342</url>
-  </channel>
-  <channel id="99991713">
-    <display-name>Court TV</display-name>
-    <display-name>Court TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991713</url>
   </channel>
   <channel id="565">
     <display-name>TVN HD Poland</display-name>
     <display-name>TVN HD Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/565</url>
   </channel>
-  <channel id="99991698">
-    <display-name>Midsomer Murders</display-name>
-    <display-name>Midsomer Murders</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991698</url>
-  </channel>
   <channel id="444">
     <display-name>TVN24 Poland</display-name>
     <display-name>TVN24 Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/444</url>
   </channel>
-  <channel id="99951233">
-    <display-name>Court TV Legendary Trials</display-name>
-    <display-name>Court TV Legendary Trials</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951233</url>
-  </channel>
   <channel id="842">
     <display-name>TVO CA</display-name>
     <display-name>TVO CA</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/842</url>
-  </channel>
-  <channel id="99951213">
-    <display-name>BritBox Mysteries</display-name>
-    <display-name>BritBox Mysteries</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951213</url>
   </channel>
   <channel id="452">
     <display-name>TVP INFO</display-name>
@@ -4235,50 +3585,25 @@
     <display-name>TVP Sport Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/128</url>
   </channel>
-  <channel id="99951299">
-    <display-name>TV One CRIME &amp; JUSTICE FAST CHANNEL</display-name>
-    <display-name>TV One CRIME &amp; JUSTICE FAST CHANNEL</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951299</url>
-  </channel>
   <channel id="560">
     <display-name>TVP1 Poland</display-name>
     <display-name>TVP1 Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/560</url>
-  </channel>
-  <channel id="99951315">
-    <display-name>World's Wildest Police Videos</display-name>
-    <display-name>World</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951315</url>
   </channel>
   <channel id="561">
     <display-name>TVP2 Poland</display-name>
     <display-name>TVP2 Poland</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/561</url>
   </channel>
-  <channel id="99951285">
-    <display-name>Investigation</display-name>
-    <display-name>Investigation</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951285</url>
-  </channel>
   <channel id="746">
     <display-name>TYC Sports Argentina</display-name>
     <display-name>TYC Sports Argentina</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/746</url>
   </channel>
-  <channel id="99951410">
-    <display-name>Lawless by Lionsgate</display-name>
-    <display-name>Lawless by Lionsgate</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951410</url>
-  </channel>
   <channel id="133">
     <display-name>Unimas</display-name>
     <display-name>Unimas</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/133</url>
-  </channel>
-  <channel id="99951395">
-    <display-name>The F.B.I.</display-name>
-    <display-name>The F.B.I.</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951395</url>
   </channel>
   <channel id="668">
     <display-name>Universal Kids USA</display-name>
@@ -4440,1817 +3765,507 @@
     <display-name>МАТЧ! БОЕЦ Russia</display-name>
     <url>http://10.0.0.215:5004/DaddyLive/watch/395</url>
   </channel>
-  <channel id="99991784">
-    <display-name>Xumo Free Action &amp; Drama TV</display-name>
-    <display-name>Xumo Free Action &amp; Drama TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991784</url>
-  </channel>
-  <channel id="9999614">
-    <display-name>ION Plus</display-name>
-    <display-name>ION Plus</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9999614</url>
-  </channel>
-  <channel id="99951133">
-    <display-name>Baywatch</display-name>
-    <display-name>Baywatch</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951133</url>
-  </channel>
-  <channel id="99951254">
-    <display-name>Universal Action</display-name>
-    <display-name>Universal Action</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951254</url>
-  </channel>
-  <channel id="99991378">
-    <display-name>ElectricNOW</display-name>
-    <display-name>ElectricNOW</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991378</url>
-  </channel>
-  <channel id="99991622">
-    <display-name>Stories by AMC</display-name>
-    <display-name>Stories by AMC</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991622</url>
-  </channel>
-  <channel id="99951334">
-    <display-name>GET</display-name>
-    <display-name>GET</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951334</url>
-  </channel>
-  <channel id="99951330">
-    <display-name>Nash Bridges Channel</display-name>
-    <display-name>Nash Bridges Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951330</url>
-  </channel>
-  <channel id="99951346">
-    <display-name>Designated Survivor</display-name>
-    <display-name>Designated Survivor</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951346</url>
-  </channel>
-  <channel id="99951332">
-    <display-name>Crunchyroll</display-name>
-    <display-name>Crunchyroll</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951332</url>
-  </channel>
-  <channel id="99991105">
-    <display-name>Xumo Free Comedy TV</display-name>
-    <display-name>Xumo Free Comedy TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991105</url>
-  </channel>
-  <channel id="99951232">
-    <display-name>Laff More</display-name>
-    <display-name>Laff More</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951232</url>
-  </channel>
-  <channel id="99951236">
-    <display-name>SNL50 Vault</display-name>
-    <display-name>SNL50 Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951236</url>
-  </channel>
-  <channel id="99951244">
-    <display-name>NBC Comedy Vault</display-name>
-    <display-name>NBC Comedy Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951244</url>
-  </channel>
-  <channel id="99951247">
-    <display-name>Saved by the Bell</display-name>
-    <display-name>Saved by the Bell</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951247</url>
-  </channel>
-  <channel id="99991667">
-    <display-name>Are We There Yet?</display-name>
-    <display-name>Are We There Yet?</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991667</url>
-  </channel>
-  <channel id="99991123">
-    <display-name>LOL Network</display-name>
-    <display-name>LOL Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991123</url>
-  </channel>
-  <channel id="99991124">
-    <display-name>Dry Bar Comedy</display-name>
-    <display-name>Dry Bar Comedy</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991124</url>
-  </channel>
-  <channel id="99991153">
-    <display-name>FailArmy</display-name>
-    <display-name>FailArmy</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991153</url>
-  </channel>
-  <channel id="99991157">
-    <display-name>The Johnny Carson Show</display-name>
-    <display-name>The Johnny Carson Show</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991157</url>
-  </channel>
-  <channel id="99991176">
-    <display-name>Just for Laughs TV</display-name>
-    <display-name>Just for Laughs TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991176</url>
-  </channel>
-  <channel id="99991190">
-    <display-name>Comedy Dynamics</display-name>
-    <display-name>Comedy Dynamics</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991190</url>
-  </channel>
-  <channel id="99991204">
-    <display-name>Just for Laughs Gags</display-name>
-    <display-name>Just for Laughs Gags</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991204</url>
-  </channel>
-  <channel id="99991349">
-    <display-name>It's Showtime at the Apollo</display-name>
-    <display-name>It</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991349</url>
-  </channel>
-  <channel id="99951301">
-    <display-name>Portlandia</display-name>
-    <display-name>Portlandia</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951301</url>
-  </channel>
-  <channel id="9999613">
-    <display-name>Bounce XL</display-name>
-    <display-name>Bounce XL</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9999613</url>
-  </channel>
-  <channel id="99951297">
-    <display-name>LOL! Stand Up</display-name>
-    <display-name>LOL! Stand Up</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951297</url>
-  </channel>
-  <channel id="99951333">
-    <display-name>GET Comedy</display-name>
-    <display-name>GET Comedy</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951333</url>
-  </channel>
-  <channel id="99951329">
-    <display-name>The Conners</display-name>
-    <display-name>The Conners</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951329</url>
-  </channel>
-  <channel id="99951403">
-    <display-name>WITZ Comedy TV</display-name>
-    <display-name>WITZ Comedy TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951403</url>
-  </channel>
-  <channel id="99951397">
-    <display-name>Hit Sitcoms</display-name>
-    <display-name>Hit Sitcoms</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951397</url>
-  </channel>
-  <channel id="99951195">
-    <display-name>PBS Nature</display-name>
-    <display-name>PBS Nature</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951195</url>
-  </channel>
-  <channel id="99951231">
-    <display-name>BBC Earth</display-name>
-    <display-name>BBC Earth</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951231</url>
-  </channel>
-  <channel id="99991197">
-    <display-name>NatureVision</display-name>
-    <display-name>NatureVision</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991197</url>
-  </channel>
-  <channel id="99991252">
-    <display-name>Stingray Naturescape</display-name>
-    <display-name>Stingray Naturescape</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991252</url>
-  </channel>
-  <channel id="99991398">
-    <display-name>Love Nature</display-name>
-    <display-name>Love Nature</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991398</url>
-  </channel>
-  <channel id="99991628">
-    <display-name>WildEarth</display-name>
-    <display-name>WildEarth</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991628</url>
-  </channel>
-  <channel id="99991765">
-    <display-name>Xplore</display-name>
-    <display-name>Xplore</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991765</url>
-  </channel>
-  <channel id="99951328">
-    <display-name>Love The Planet</display-name>
-    <display-name>Love The Planet</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951328</url>
-  </channel>
-  <channel id="99951294">
-    <display-name>Dog Whisperer</display-name>
-    <display-name>Dog Whisperer</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951294</url>
-  </channel>
-  <channel id="99991174">
-    <display-name>The Pet Collective</display-name>
-    <display-name>The Pet Collective</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991174</url>
-  </channel>
-  <channel id="99951347">
-    <display-name>The Yorkshire Vet &amp; Friends</display-name>
-    <display-name>The Yorkshire Vet &amp; Friends</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951347</url>
-  </channel>
-  <channel id="99991372">
-    <display-name>WEATHERSPY</display-name>
-    <display-name>WEATHERSPY</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991372</url>
-  </channel>
-  <channel id="99951378">
-    <display-name>EarthXtra</display-name>
-    <display-name>EarthXtra</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951378</url>
-  </channel>
-  <channel id="99951409">
-    <display-name>Bark TV</display-name>
-    <display-name>Bark TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951409</url>
-  </channel>
-  <channel id="99951138">
-    <display-name>McLeod's Daughters</display-name>
-    <display-name>McLeod</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951138</url>
-  </channel>
-  <channel id="99951152">
-    <display-name>Grit Xtra</display-name>
-    <display-name>Grit Xtra</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951152</url>
-  </channel>
-  <channel id="99951160">
-    <display-name>Western Bound Wrangled by INSP</display-name>
-    <display-name>Western Bound Wrangled by INSP</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951160</url>
-  </channel>
-  <channel id="99951216">
-    <display-name>The Rifleman</display-name>
-    <display-name>The Rifleman</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951216</url>
-  </channel>
-  <channel id="99951240">
-    <display-name>Little House on the Prairie</display-name>
-    <display-name>Little House on the Prairie</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951240</url>
-  </channel>
-  <channel id="99951255">
-    <display-name>Universal Westerns</display-name>
-    <display-name>Universal Westerns</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951255</url>
-  </channel>
-  <channel id="99991131">
-    <display-name>Circle Country</display-name>
-    <display-name>Circle Country</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991131</url>
-  </channel>
-  <channel id="99951356">
-    <display-name>Wild West TV</display-name>
-    <display-name>Wild West TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951356</url>
-  </channel>
-  <channel id="99951357">
-    <display-name>CINEVAULT Westerns</display-name>
-    <display-name>CINEVAULT Westerns</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951357</url>
-  </channel>
-  <channel id="99951156">
-    <display-name>At Home with Family Handyman</display-name>
-    <display-name>At Home with Family Handyman</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951156</url>
-  </channel>
-  <channel id="99951178">
-    <display-name>BBC Home &amp; Garden</display-name>
-    <display-name>BBC Home &amp; Garden</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951178</url>
-  </channel>
-  <channel id="99951210">
-    <display-name>CraftsyTV</display-name>
-    <display-name>CraftsyTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951210</url>
-  </channel>
-  <channel id="99951212">
-    <display-name>Gardening with Monty Don</display-name>
-    <display-name>Gardening with Monty Don</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951212</url>
-  </channel>
-  <channel id="99951221">
-    <display-name>Property &amp; Reno</display-name>
-    <display-name>Property &amp; Reno</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951221</url>
-  </channel>
-  <channel id="99951237">
-    <display-name>Million Dollar Listing Vault</display-name>
-    <display-name>Million Dollar Listing Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951237</url>
-  </channel>
-  <channel id="99991293">
-    <display-name>This Old House</display-name>
-    <display-name>This Old House</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991293</url>
-  </channel>
-  <channel id="99991390">
-    <display-name>The Design Network</display-name>
-    <display-name>The Design Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991390</url>
-  </channel>
-  <channel id="99991651">
-    <display-name>NBC LX Home</display-name>
-    <display-name>NBC LX Home</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991651</url>
-  </channel>
-  <channel id="99991693">
-    <display-name>Homeful</display-name>
-    <display-name>Homeful</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991693</url>
-  </channel>
-  <channel id="99991759">
-    <display-name>Today's Homeowner</display-name>
-    <display-name>Today</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991759</url>
-  </channel>
-  <channel id="99951350">
-    <display-name>Places &amp; Spaces</display-name>
-    <display-name>Places &amp; Spaces</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951350</url>
-  </channel>
-  <channel id="99991639">
-    <display-name>Xumo Free Game Show TV</display-name>
-    <display-name>Xumo Free Game Show TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991639</url>
-  </channel>
-  <channel id="99951125">
-    <display-name>The Price is Right: The Barker Era</display-name>
-    <display-name>The Price is Right: The Barker Era</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951125</url>
-  </channel>
-  <channel id="99951126">
-    <display-name>Supermarket Sweep</display-name>
-    <display-name>Supermarket Sweep</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951126</url>
-  </channel>
-  <channel id="99951129">
-    <display-name>Wipeout Xtra</display-name>
-    <display-name>Wipeout Xtra</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951129</url>
-  </channel>
-  <channel id="99951130">
-    <display-name>Fear Factor</display-name>
-    <display-name>Fear Factor</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951130</url>
-  </channel>
-  <channel id="99951224">
-    <display-name>The Celebrity Name Game Channel</display-name>
-    <display-name>The Celebrity Name Game Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951224</url>
-  </channel>
-  <channel id="99991232">
-    <display-name>Family Feud</display-name>
-    <display-name>Family Feud</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991232</url>
-  </channel>
-  <channel id="99951124">
-    <display-name>BUZZR</display-name>
-    <display-name>BUZZR</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951124</url>
-  </channel>
-  <channel id="99991659">
-    <display-name>25 Words or Less</display-name>
-    <display-name>25 Words or Less</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991659</url>
-  </channel>
-  <channel id="99951336">
-    <display-name>Game Show Central</display-name>
-    <display-name>Game Show Central</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951336</url>
-  </channel>
-  <channel id="99991781">
-    <display-name>Impossible – Quiz Show</display-name>
-    <display-name>Impossible – Quiz Show</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991781</url>
-  </channel>
-  <channel id="99951318">
-    <display-name>American Ninja Warrior</display-name>
-    <display-name>American Ninja Warrior</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951318</url>
-  </channel>
-  <channel id="99951339">
-    <display-name>Family Feud Classic</display-name>
-    <display-name>Family Feud Classic</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951339</url>
-  </channel>
-  <channel id="9995117">
-    <display-name>Xumo Free Food TV</display-name>
-    <display-name>Xumo Free Food TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995117</url>
-  </channel>
-  <channel id="99951151">
-    <display-name>Lidia's Kitchen</display-name>
-    <display-name>Lidia</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951151</url>
-  </channel>
-  <channel id="99951153">
-    <display-name>The Jamie Oliver Channel</display-name>
-    <display-name>The Jamie Oliver Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951153</url>
-  </channel>
-  <channel id="99951177">
-    <display-name>BBC Food</display-name>
-    <display-name>BBC Food</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951177</url>
-  </channel>
-  <channel id="99951238">
-    <display-name>Top Chef Vault</display-name>
-    <display-name>Top Chef Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951238</url>
-  </channel>
-  <channel id="99991202">
-    <display-name>Tastemade</display-name>
-    <display-name>Tastemade</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991202</url>
-  </channel>
-  <channel id="99991328">
-    <display-name>GustoTV</display-name>
-    <display-name>GustoTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991328</url>
-  </channel>
-  <channel id="99991369">
-    <display-name>America's Test Kitchen</display-name>
-    <display-name>America</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991369</url>
-  </channel>
-  <channel id="99991380">
-    <display-name>Hungry</display-name>
-    <display-name>Hungry</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991380</url>
-  </channel>
-  <channel id="99951284">
-    <display-name>Fork &amp; Flight</display-name>
-    <display-name>Fork &amp; Flight</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951284</url>
-  </channel>
-  <channel id="99951323">
-    <display-name>Cook's Country Channel</display-name>
-    <display-name>Cook</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951323</url>
-  </channel>
-  <channel id="99951385">
-    <display-name>Sweet Escapes</display-name>
-    <display-name>Sweet Escapes</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951385</url>
-  </channel>
-  <channel id="99951393">
-    <display-name>Bizarre Foods with Andrew Zimmern</display-name>
-    <display-name>Bizarre Foods with Andrew Zimmern</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951393</url>
-  </channel>
-  <channel id="99991111">
-    <display-name>Xumo Free Travel &amp; Lifestyle TV</display-name>
-    <display-name>Xumo Free Travel &amp; Lifestyle TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991111</url>
-  </channel>
-  <channel id="99951206">
-    <display-name>PBS Antiques Roadshow</display-name>
-    <display-name>PBS Antiques Roadshow</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951206</url>
-  </channel>
-  <channel id="9995118">
-    <display-name>Tastemade Travel Channel</display-name>
-    <display-name>Tastemade Travel Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995118</url>
-  </channel>
-  <channel id="99991271">
-    <display-name>HSN</display-name>
-    <display-name>HSN</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991271</url>
-  </channel>
-  <channel id="99991280">
-    <display-name>eScapes</display-name>
-    <display-name>eScapes</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991280</url>
-  </channel>
-  <channel id="99991344">
-    <display-name>QVC</display-name>
-    <display-name>QVC</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991344</url>
-  </channel>
-  <channel id="99991383">
-    <display-name>GoTraveler</display-name>
-    <display-name>GoTraveler</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991383</url>
-  </channel>
-  <channel id="99991370">
-    <display-name>ShopLC</display-name>
-    <display-name>ShopLC</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991370</url>
-  </channel>
-  <channel id="99991783">
-    <display-name>Antiques Roadshow UK</display-name>
-    <display-name>Antiques Roadshow UK</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991783</url>
-  </channel>
-  <channel id="99991338">
-    <display-name>JTV Jewelry Love</display-name>
-    <display-name>JTV Jewelry Love</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991338</url>
-  </channel>
-  <channel id="99951353">
-    <display-name>Antiques Road Trip</display-name>
-    <display-name>Antiques Road Trip</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951353</url>
-  </channel>
-  <channel id="99951405">
-    <display-name>QVC2</display-name>
-    <display-name>QVC2</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951405</url>
-  </channel>
-  <channel id="99991747">
-    <display-name>Telemundo Al Día</display-name>
-    <display-name>Telemundo Al Día</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991747</url>
-  </channel>
-  <channel id="99991776">
-    <display-name>Estrella News</display-name>
-    <display-name>Estrella News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991776</url>
-  </channel>
-  <channel id="99991748">
-    <display-name>Telemundo Acción</display-name>
-    <display-name>Telemundo Acción</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991748</url>
-  </channel>
-  <channel id="99991749">
-    <display-name>Telemundo Romance</display-name>
-    <display-name>Telemundo Romance</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991749</url>
-  </channel>
-  <channel id="99991142">
-    <display-name>Cine Romántico</display-name>
-    <display-name>Cine Romántico</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991142</url>
-  </channel>
-  <channel id="99951367">
-    <display-name>Canela.TV Clasicos</display-name>
-    <display-name>Canela.TV Clasicos</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951367</url>
-  </channel>
-  <channel id="99991739">
-    <display-name>FreeTV Sureño</display-name>
-    <display-name>FreeTV Sureño</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991739</url>
-  </channel>
-  <channel id="99991743">
-    <display-name>Tastemade en Español</display-name>
-    <display-name>Tastemade en Español</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991743</url>
-  </channel>
-  <channel id="99991746">
-    <display-name>EstrellaTV</display-name>
-    <display-name>EstrellaTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991746</url>
-  </channel>
-  <channel id="99951140">
-    <display-name>AMERICATEVÉ</display-name>
-    <display-name>AMERICATEVÉ </display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951140</url>
-  </channel>
-  <channel id="99981121">
-    <display-name>FILMEX CLASICO</display-name>
-    <display-name>FILMEX CLASICO</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99981121</url>
-  </channel>
-  <channel id="99991775">
-    <display-name>Love Nature en Español</display-name>
-    <display-name>Love Nature en Español</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991775</url>
-  </channel>
-  <channel id="99991762">
-    <display-name>Sony One Competencias</display-name>
-    <display-name>Sony One Competencias</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991762</url>
-  </channel>
-  <channel id="99951120">
-    <display-name>FILMEX</display-name>
-    <display-name>FILMEX</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951120</url>
-  </channel>
-  <channel id="99991785">
-    <display-name>beIN SPORTS XTRA en Español</display-name>
-    <display-name>beIN SPORTS XTRA en Español</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991785</url>
-  </channel>
-  <channel id="9995104">
-    <display-name>iHeartRadio Beso</display-name>
-    <display-name>iHeartRadio Beso</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995104</url>
-  </channel>
-  <channel id="99951287">
-    <display-name>Latino Vibes</display-name>
-    <display-name>Latino Vibes</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951287</url>
-  </channel>
-  <channel id="99951321">
-    <display-name>Noticias Telemundo Ahora</display-name>
-    <display-name>Noticias Telemundo Ahora</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951321</url>
-  </channel>
-  <channel id="99951331">
-    <display-name>Hallmark en Español</display-name>
-    <display-name>Hallmark en Español</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951331</url>
-  </channel>
-  <channel id="99951414">
-    <display-name>Spectrum Noticias</display-name>
-    <display-name>Spectrum Noticias</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951414</url>
-  </channel>
-  <channel id="99991364">
-    <display-name>Xumo Free Reality TV</display-name>
-    <display-name>Xumo Free Reality TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991364</url>
-  </channel>
-  <channel id="99951235">
-    <display-name>E! Keeping Up</display-name>
-    <display-name>E! Keeping Up</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951235</url>
-  </channel>
-  <channel id="99951241">
-    <display-name>Bad Girls Club</display-name>
-    <display-name>Bad Girls Club</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951241</url>
-  </channel>
-  <channel id="99951242">
-    <display-name>Bravo Vault</display-name>
-    <display-name>Bravo Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951242</url>
-  </channel>
-  <channel id="99951243">
-    <display-name>Real Housewives Vault</display-name>
-    <display-name>Real Housewives Vault</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951243</url>
-  </channel>
-  <channel id="99951252">
-    <display-name>Cheaters</display-name>
-    <display-name>Cheaters</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951252</url>
-  </channel>
-  <channel id="99951262">
-    <display-name>Real Disaster Channel</display-name>
-    <display-name>Real Disaster Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951262</url>
-  </channel>
-  <channel id="99991303">
-    <display-name>Backstage</display-name>
-    <display-name>Backstage</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991303</url>
-  </channel>
-  <channel id="99991366">
-    <display-name>Nosey</display-name>
-    <display-name>Nosey</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991366</url>
-  </channel>
-  <channel id="99991388">
-    <display-name>Confess by Nosey</display-name>
-    <display-name>Confess by Nosey</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991388</url>
-  </channel>
-  <channel id="99991625">
-    <display-name>All Weddings We TV</display-name>
-    <display-name>All Weddings We TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991625</url>
-  </channel>
-  <channel id="99991681">
-    <display-name>Hell's Kitchen</display-name>
-    <display-name>Hell</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991681</url>
-  </channel>
-  <channel id="99951341">
-    <display-name>Untold Stories of the ER</display-name>
-    <display-name>Untold Stories of the ER</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951341</url>
-  </channel>
-  <channel id="99951338">
-    <display-name>Rig TV</display-name>
-    <display-name>Rig TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951338</url>
-  </channel>
-  <channel id="99951370">
-    <display-name>Dr. Phil</display-name>
-    <display-name>Dr. Phil</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951370</url>
-  </channel>
-  <channel id="99951376">
-    <display-name>All Reality We TV</display-name>
-    <display-name>All Reality We TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951376</url>
-  </channel>
-  <channel id="99951408">
-    <display-name>The Osbournes</display-name>
-    <display-name>The Osbournes</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951408</url>
-  </channel>
-  <channel id="99951432">
-    <display-name>Extreme Jobs</display-name>
-    <display-name>Extreme Jobs</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951432</url>
-  </channel>
-  <channel id="99951433">
-    <display-name>Wendy Williams</display-name>
-    <display-name>Wendy Williams</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951433</url>
-  </channel>
-  <channel id="99951400">
-    <display-name>The Ellen Channel</display-name>
-    <display-name>The Ellen Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951400</url>
-  </channel>
-  <channel id="99951394">
-    <display-name>Say Yes to the Dress</display-name>
-    <display-name>Say Yes to the Dress</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951394</url>
-  </channel>
-  <channel id="99951384">
-    <display-name>Bachelor Nation</display-name>
-    <display-name>Bachelor Nation</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951384</url>
-  </channel>
-  <channel id="99951396">
-    <display-name>MythBusters</display-name>
-    <display-name>MythBusters</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951396</url>
-  </channel>
-  <channel id="99951146">
-    <display-name>Family Affair Channel</display-name>
-    <display-name>Family Affair Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951146</url>
-  </channel>
-  <channel id="99951259">
-    <display-name>Lassie</display-name>
-    <display-name>Lassie</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951259</url>
-  </channel>
-  <channel id="99991354">
-    <display-name>American Classics</display-name>
-    <display-name>American Classics</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991354</url>
-  </channel>
-  <channel id="99991616">
-    <display-name>Mystery Science Theater 3000 (MST3K)</display-name>
-    <display-name>Mystery Science Theater 3000 (MST3K)</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991616</url>
-  </channel>
-  <channel id="99991106">
-    <display-name>RiffTrax</display-name>
-    <display-name>RiffTrax</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991106</url>
-  </channel>
-  <channel id="99951319">
-    <display-name>The Adventures of Rocky and Bullwinkle and Friends</display-name>
-    <display-name>The Adventures of Rocky and Bullwinkle and Friends</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951319</url>
-  </channel>
-  <channel id="99951257">
-    <display-name>Leave It to Beaver</display-name>
-    <display-name>Leave It to Beaver</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951257</url>
-  </channel>
-  <channel id="99951380">
-    <display-name>The Carol Burnett Show</display-name>
-    <display-name>The Carol Burnett Show</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951380</url>
-  </channel>
-  <channel id="99991379">
-    <display-name>Combat War Channel</display-name>
-    <display-name>Combat War Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991379</url>
-  </channel>
-  <channel id="99951345">
-    <display-name>Cosmic Frontiers</display-name>
-    <display-name>Cosmic Frontiers</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951345</url>
-  </channel>
-  <channel id="99991650">
-    <display-name>True History Channel</display-name>
-    <display-name>True History Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991650</url>
-  </channel>
-  <channel id="99951358">
-    <display-name>Curiosity Now</display-name>
-    <display-name>Curiosity Now</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951358</url>
-  </channel>
-  <channel id="99951387">
-    <display-name>CNN Originals</display-name>
-    <display-name>CNN Originals</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951387</url>
-  </channel>
-  <channel id="99951392">
-    <display-name>How To</display-name>
-    <display-name>How To</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951392</url>
-  </channel>
-  <channel id="99991353">
-    <display-name>Xumo Free Family Movies</display-name>
-    <display-name>Xumo Free Family Movies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991353</url>
-  </channel>
-  <channel id="99991333">
-    <display-name>Dove</display-name>
-    <display-name>Dove</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991333</url>
-  </channel>
-  <channel id="99951189">
-    <display-name>FAITHOPE</display-name>
-    <display-name>FAITHOPE</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951189</url>
-  </channel>
-  <channel id="99951211">
-    <display-name>STELLAR</display-name>
-    <display-name>STELLAR</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951211</url>
-  </channel>
-  <channel id="99991708">
-    <display-name>Trinity Broadcast Network</display-name>
-    <display-name>Trinity Broadcast Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991708</url>
-  </channel>
-  <channel id="99991772">
-    <display-name>EncourageTV</display-name>
-    <display-name>EncourageTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991772</url>
-  </channel>
-  <channel id="99951141">
-    <display-name>JLTV</display-name>
-    <display-name>JLTV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951141</url>
-  </channel>
-  <channel id="99951344">
-    <display-name>Joel Osteen Network</display-name>
-    <display-name>Joel Osteen Network</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951344</url>
-  </channel>
-  <channel id="99951401">
-    <display-name>Highway to Heaven</display-name>
-    <display-name>Highway to Heaven</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951401</url>
-  </channel>
-  <channel id="99951407">
-    <display-name>Pure Flix TV</display-name>
-    <display-name>Pure Flix TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951407</url>
-  </channel>
-  <channel id="99991107">
-    <display-name>Xumo Free Kids TV</display-name>
-    <display-name>Xumo Free Kids TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991107</url>
-  </channel>
-  <channel id="99951209">
-    <display-name>Baby Shark TV</display-name>
-    <display-name>Baby Shark TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951209</url>
-  </channel>
-  <channel id="99951229">
-    <display-name>Ninja Kidz TV</display-name>
-    <display-name>Ninja Kidz TV</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951229</url>
-  </channel>
-  <channel id="99951300">
-    <display-name>Barney and Friends</display-name>
-    <display-name>Barney and Friends</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951300</url>
-  </channel>
-  <channel id="99991253">
-    <display-name>All Babies Channel</display-name>
-    <display-name>All Babies Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991253</url>
-  </channel>
-  <channel id="99991268">
-    <display-name>Toon Goggles</display-name>
-    <display-name>Toon Goggles</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991268</url>
-  </channel>
-  <channel id="99991283">
-    <display-name>Rainbow Rangers</display-name>
-    <display-name>Rainbow Rangers</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991283</url>
-  </channel>
-  <channel id="99991326">
-    <display-name>pocket.watch Game-On</display-name>
-    <display-name>pocket.watch Game-On</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991326</url>
-  </channel>
-  <channel id="99991327">
-    <display-name>Kartoon Channel!</display-name>
-    <display-name>Kartoon Channel!</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991327</url>
-  </channel>
-  <channel id="99991761">
-    <display-name>Teletubbies</display-name>
-    <display-name>Teletubbies</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991761</url>
-  </channel>
-  <channel id="99951280">
-    <display-name>Sensical Jr.</display-name>
-    <display-name>Sensical Jr.</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951280</url>
-  </channel>
-  <channel id="99951281">
-    <display-name>Sensical Makers</display-name>
-    <display-name>Sensical Makers</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951281</url>
-  </channel>
-  <channel id="99951320">
-    <display-name>Shaun the Sheep &amp; Friends</display-name>
-    <display-name>Shaun the Sheep &amp; Friends</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951320</url>
-  </channel>
-  <channel id="99951366">
-    <display-name>OK Gamer</display-name>
-    <display-name>OK Gamer</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951366</url>
-  </channel>
-  <channel id="99991103">
-    <display-name>FOX Soul</display-name>
-    <display-name>FOX Soul</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991103</url>
-  </channel>
-  <channel id="99991108">
-    <display-name>theGRIO</display-name>
-    <display-name>theGRIO</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991108</url>
-  </channel>
-  <channel id="99991296">
-    <display-name>Revry</display-name>
-    <display-name>Revry</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991296</url>
-  </channel>
-  <channel id="99991670">
-    <display-name>ET</display-name>
-    <display-name>ET</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991670</url>
-  </channel>
-  <channel id="99951288">
-    <display-name>OUTtv Proud</display-name>
-    <display-name>OUTtv Proud</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951288</url>
-  </channel>
-  <channel id="99951379">
-    <display-name>TV One Stars &amp; Stories</display-name>
-    <display-name>TV One Stars &amp; Stories</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951379</url>
-  </channel>
-  <channel id="99991756">
-    <display-name>Xumo Free Bollywood &amp; Indian Cinema</display-name>
-    <display-name>Xumo Free Bollywood &amp; Indian Cinema</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991756</url>
-  </channel>
-  <channel id="99951184">
-    <display-name>Sony KAL</display-name>
-    <display-name>Sony KAL</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951184</url>
-  </channel>
-  <channel id="99991348">
-    <display-name>KOCOWA K-Drama</display-name>
-    <display-name>KOCOWA K-Drama</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991348</url>
-  </channel>
-  <channel id="99991381">
-    <display-name>Demand Africa</display-name>
-    <display-name>Demand Africa</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991381</url>
-  </channel>
-  <channel id="99991386">
-    <display-name>NEW Korean MOVIES &amp; SERIES</display-name>
-    <display-name>NEW Korean MOVIES &amp; SERIES</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991386</url>
-  </channel>
-  <channel id="99991779">
-    <display-name>Jubao</display-name>
-    <display-name>Jubao</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991779</url>
-  </channel>
-  <channel id="9995100">
-    <display-name>iHeart90s</display-name>
-    <display-name>iHeart90s</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995100</url>
-  </channel>
-  <channel id="9995101">
-    <display-name>iHeart Alternative Radio</display-name>
-    <display-name>iHeart Alternative Radio</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995101</url>
-  </channel>
-  <channel id="9995102">
-    <display-name>iHeartCountry</display-name>
-    <display-name>iHeartCountry </display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995102</url>
-  </channel>
-  <channel id="9995103">
-    <display-name>iHeartRadio Hip Hop Beats</display-name>
-    <display-name>iHeartRadio Hip Hop Beats</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995103</url>
-  </channel>
-  <channel id="99991117">
-    <display-name>Stingray Hit List</display-name>
-    <display-name>Stingray Hit List</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991117</url>
-  </channel>
-  <channel id="99991118">
-    <display-name>Stingray Hot Country</display-name>
-    <display-name>Stingray Hot Country</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991118</url>
-  </channel>
-  <channel id="99991119">
-    <display-name>Stingray Classic Rock</display-name>
-    <display-name>Stingray Classic Rock</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991119</url>
-  </channel>
-  <channel id="99991120">
-    <display-name>Stingray Greatest Hits</display-name>
-    <display-name>Stingray Greatest Hits</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991120</url>
-  </channel>
-  <channel id="99991121">
-    <display-name>Stingray Soul Storm</display-name>
-    <display-name>Stingray Soul Storm</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991121</url>
-  </channel>
-  <channel id="99991742">
-    <display-name>Stingray Remember the 80s</display-name>
-    <display-name>Stingray Remember the 80s</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991742</url>
-  </channel>
-  <channel id="99951171">
-    <display-name>ABC7 Chicago</display-name>
-    <display-name>ABC7 Chicago</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951171</url>
-  </channel>
-  <channel id="99951172">
-    <display-name>6abc Philadelphia</display-name>
-    <display-name>6abc Philadelphia</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951172</url>
-  </channel>
-  <channel id="99991656">
-    <display-name>CBS News Boston</display-name>
-    <display-name>CBS News Boston</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991656</url>
-  </channel>
-  <channel id="99951174">
-    <display-name>KTRK ABC13's 24/7 Streaming Channel</display-name>
-    <display-name>KTRK ABC13</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951174</url>
-  </channel>
-  <channel id="99991690">
-    <display-name>WSB Atlanta</display-name>
-    <display-name>WSB Atlanta</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991690</url>
-  </channel>
-  <channel id="9995108">
-    <display-name>Boston 25</display-name>
-    <display-name>Boston 25</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995108</url>
-  </channel>
-  <channel id="9995110">
-    <display-name>Action News Jax</display-name>
-    <display-name>Action News Jax</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995110</url>
-  </channel>
-  <channel id="99991643">
-    <display-name>CBS News Chicago</display-name>
-    <display-name>CBS News Chicago</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991643</url>
-  </channel>
-  <channel id="9995112">
-    <display-name>KIRO Seattle</display-name>
-    <display-name>KIRO Seattle</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995112</url>
-  </channel>
-  <channel id="99951173">
-    <display-name>ABC7 Bay Area</display-name>
-    <display-name>ABC7 Bay Area</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951173</url>
-  </channel>
-  <channel id="99991689">
-    <display-name>WPXI Pittsburgh</display-name>
-    <display-name>WPXI Pittsburgh</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991689</url>
-  </channel>
-  <channel id="99991655">
-    <display-name>CBS News Bay Area</display-name>
-    <display-name>CBS News Bay Area</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991655</url>
-  </channel>
-  <channel id="99951176">
-    <display-name>KFSN ABC30 Central CA</display-name>
-    <display-name>KFSN ABC30 Central CA</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951176</url>
-  </channel>
-  <channel id="99951169">
-    <display-name>ABC7 New York</display-name>
-    <display-name>ABC7 New York</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951169</url>
-  </channel>
-  <channel id="99991641">
-    <display-name>CBS News New York</display-name>
-    <display-name>CBS News New York</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991641</url>
-  </channel>
-  <channel id="99951168">
-    <display-name>NBC 10 Boston News</display-name>
-    <display-name>NBC 10 Boston News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951168</url>
-  </channel>
-  <channel id="99951170">
-    <display-name>ABC7 Los Angeles</display-name>
-    <display-name>ABC7 Los Angeles</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951170</url>
-  </channel>
-  <channel id="9995107">
-    <display-name>WFTV Orlando</display-name>
-    <display-name>WFTV Orlando</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995107</url>
-  </channel>
-  <channel id="99991642">
-    <display-name>CBS News Los Angeles</display-name>
-    <display-name>CBS News Los Angeles</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991642</url>
-  </channel>
-  <channel id="99951165">
-    <display-name>NBC 5 Chicago News</display-name>
-    <display-name>NBC 5 Chicago News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951165</url>
-  </channel>
-  <channel id="99951181">
-    <display-name>NBC 4 Washington News</display-name>
-    <display-name>NBC 4 Washington News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951181</url>
-  </channel>
-  <channel id="99951166">
-    <display-name>NBC 10 Philadelphia News</display-name>
-    <display-name>NBC 10 Philadelphia News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951166</url>
-  </channel>
-  <channel id="99951163">
-    <display-name>NBC 4 New York News</display-name>
-    <display-name>NBC 4 New York News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951163</url>
-  </channel>
-  <channel id="99951227">
-    <display-name>Telemundo Noticias Florida</display-name>
-    <display-name>Telemundo Noticias Florida</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951227</url>
-  </channel>
-  <channel id="99951167">
-    <display-name>NBC 6 South Florida News</display-name>
-    <display-name>NBC 6 South Florida News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951167</url>
-  </channel>
-  <channel id="99951228">
-    <display-name>Telemundo Noticias Noreste</display-name>
-    <display-name>Telemundo Noticias Noreste</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951228</url>
-  </channel>
-  <channel id="99991691">
-    <display-name>WSOC Charlotte</display-name>
-    <display-name>WSOC Charlotte</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99991691</url>
-  </channel>
-  <channel id="99951162">
-    <display-name>NBC Bay Area News</display-name>
-    <display-name>NBC Bay Area News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951162</url>
-  </channel>
-  <channel id="99951222">
-    <display-name>News 12 New York</display-name>
-    <display-name>News 12 New York</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951222</url>
-  </channel>
-  <channel id="99951175">
-    <display-name>WTVD ABC11 24/7 Streaming Channel</display-name>
-    <display-name>WTVD ABC11 24/7 Streaming Channel</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951175</url>
-  </channel>
-  <channel id="99951182">
-    <display-name>NBC 5 Dallas-Fort Worth News</display-name>
-    <display-name>NBC 5 Dallas-Fort Worth News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951182</url>
-  </channel>
-  <channel id="99951225">
-    <display-name>Telemundo Noticias California</display-name>
-    <display-name>Telemundo Noticias California</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951225</url>
-  </channel>
-  <channel id="99951226">
-    <display-name>Telemundo Noticias Texas</display-name>
-    <display-name>Telemundo Noticias Texas</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951226</url>
-  </channel>
-  <channel id="99951164">
-    <display-name>NBC 4 Los Angeles News</display-name>
-    <display-name>NBC 4 Los Angeles News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951164</url>
-  </channel>
-  <channel id="99951185">
-    <display-name>NBC 7 San Diego News</display-name>
-    <display-name>NBC 7 San Diego News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951185</url>
-  </channel>
-  <channel id="9995109">
-    <display-name>WHIO Dayton</display-name>
-    <display-name>WHIO Dayton</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/9995109</url>
-  </channel>
-  <channel id="99951149">
-    <display-name>Localish</display-name>
-    <display-name>Localish</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951149</url>
-  </channel>
-  <channel id="99951183">
-    <display-name>NBC Connecticut News</display-name>
-    <display-name>NBC Connecticut News</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951183</url>
-  </channel>
-  <channel id="99951417">
-    <display-name>FOX 13 Seattle</display-name>
-    <display-name>FOX 13 Seattle</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951417</url>
-  </channel>
-  <channel id="99951418">
-    <display-name>FOX 4 Dallas | Fort Worth</display-name>
-    <display-name>FOX 4 Dallas | Fort Worth</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951418</url>
-  </channel>
-  <channel id="99951431">
-    <display-name>FOX 9 Minneapolis-St. Paul</display-name>
-    <display-name>FOX 9 Minneapolis-St. Paul</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951431</url>
-  </channel>
-  <channel id="99951423">
-    <display-name>FOX 26 Houston</display-name>
-    <display-name>FOX 26 Houston</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951423</url>
-  </channel>
-  <channel id="99951419">
-    <display-name>FOX 10 Phoenix</display-name>
-    <display-name>FOX 10 Phoenix</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951419</url>
-  </channel>
-  <channel id="99951430">
-    <display-name>FOX 7 Austin</display-name>
-    <display-name>FOX 7 Austin</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951430</url>
-  </channel>
-  <channel id="99951420">
-    <display-name>FOX 11 Los Angeles</display-name>
-    <display-name>FOX 11 Los Angeles</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951420</url>
-  </channel>
-  <channel id="99951422">
-    <display-name>FOX 2 San Francisco</display-name>
-    <display-name>FOX 2 San Francisco</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951422</url>
-  </channel>
-  <channel id="99951426">
-    <display-name>FOX 5 Atlanta</display-name>
-    <display-name>FOX 5 Atlanta</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951426</url>
-  </channel>
-  <channel id="99951415">
-    <display-name>FOX 32 Chicago</display-name>
-    <display-name>FOX 32 Chicago</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951415</url>
-  </channel>
-  <channel id="99951429">
-    <display-name>FOX 6 Milwaukee</display-name>
-    <display-name>FOX 6 Milwaukee</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951429</url>
-  </channel>
-  <channel id="99951421">
-    <display-name>FOX 2 Detroit</display-name>
-    <display-name>FOX 2 Detroit</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951421</url>
-  </channel>
-  <channel id="99951427">
-    <display-name>FOX 5 New York</display-name>
-    <display-name>FOX 5 New York</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951427</url>
-  </channel>
-  <channel id="99951425">
-    <display-name>FOX 35 Orlando</display-name>
-    <display-name>FOX 35 Orlando</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951425</url>
-  </channel>
-  <channel id="99951428">
-    <display-name>FOX 5 Washington DC</display-name>
-    <display-name>FOX 5 Washington DC</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951428</url>
-  </channel>
-  <channel id="99951416">
-    <display-name>FOX 13 Tampa Bay</display-name>
-    <display-name>FOX 13 Tampa Bay</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951416</url>
-  </channel>
-  <channel id="99951424">
-    <display-name>FOX 29 Philadelphia</display-name>
-    <display-name>FOX 29 Philadelphia</display-name>
-    <url>http://10.0.0.215:5004/XUMO/watch/99951424</url>
-  </channel>
-  <programme start="20250505T083000 +0000" stop="20250505T103000 +0000" channel="400">
+  <programme start="20250505T123000 +0000" stop="20250505T143000 +0000" channel="400">
     <title>Romania - Liga II : Csikszereda vs Metaloglobus</title>
     <desc>soccer - Romania - Liga II : Csikszereda vs Metaloglobus</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T100000 +0000" stop="20250505T120000 +0000" channel="92">
+  <programme start="20250505T140000 +0000" stop="20250505T160000 +0000" channel="92">
     <title>UEFA Women's Under-17 Championship : Spain U17 vs France U17</title>
     <desc>soccer - UEFA Women's Under-17 Championship : Spain U17 vs France U17</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T100000 +0000" stop="20250505T120000 +0000" channel="377">
+  <programme start="20250505T140000 +0000" stop="20250505T160000 +0000" channel="377">
     <title>England - Premier League 2 : Manchester United U21 vs West Ham U21</title>
     <desc>soccer - England - Premier League 2 : Manchester United U21 vs West Ham U21</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T101500 +0000" stop="20250505T121500 +0000" channel="781">
+  <programme start="20250505T141500 +0000" stop="20250505T161500 +0000" channel="781">
     <title>Qatar - Emir of Qatar Cup : Al Duhail vs Al Sailiya</title>
     <desc>soccer - Qatar - Emir of Qatar Cup : Al Duhail vs Al Sailiya</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T101500 +0000" stop="20250505T121500 +0000" channel="95">
+  <programme start="20250505T141500 +0000" stop="20250505T161500 +0000" channel="95">
     <title>Qatar - Emir of Qatar Cup : Al Duhail vs Al Sailiya</title>
     <desc>soccer - Qatar - Emir of Qatar Cup : Al Duhail vs Al Sailiya</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T103000 +0000" stop="20250505T123000 +0000" channel="400">
+  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="400">
     <title>Romania - Liga I : UTA Arad vs Petrolul 52</title>
     <desc>soccer - Romania - Liga I : UTA Arad vs Petrolul 52</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T103000 +0000" stop="20250505T123000 +0000" channel="434">
+  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="434">
     <title>Romania - Liga I : UTA Arad vs Petrolul 52</title>
     <desc>soccer - Romania - Liga I : UTA Arad vs Petrolul 52</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="35">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="35">
     <title>England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</title>
     <desc>soccer - England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="682">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="682">
     <title>England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</title>
     <desc>soccer - England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="556">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="556">
     <title>England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</title>
     <desc>soccer - England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="141">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="141">
     <title>England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</title>
     <desc>soccer - England - Women's Super League : Brighton &amp; Hove Albion vs Arsenal</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="916">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="916">
     <title>Greece - Super League : Kallithea vs Panaitolikos</title>
     <desc>soccer - Greece - Super League : Kallithea vs Panaitolikos</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="638">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="638">
     <title>Greece - Super League : Panserraikos vs Volos NFC</title>
     <desc>soccer - Greece - Super League : Panserraikos vs Volos NFC</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="96">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="96">
     <title>Africa U-20 Cup of Nations : Central African Rep. U20 vs Congo DR U20</title>
     <desc>soccer - Africa U-20 Cup of Nations : Central African Rep. U20 vs Congo DR U20</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T113000 +0000" stop="20250505T133000 +0000" channel="465">
+  <programme start="20250505T153000 +0000" stop="20250505T173000 +0000" channel="465">
     <title>Bulgaria - Second League : OFK Pirin vs Yantra 2019</title>
     <desc>soccer - Bulgaria - Second League : OFK Pirin vs Yantra 2019</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="641">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="641">
     <title>Frauen-Bundesliga : Carl Zeiss Jena vs Bayern</title>
     <desc>soccer - Frauen-Bundesliga : Carl Zeiss Jena vs Bayern</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="911">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="911">
     <title>Cyprus - First Division : Karmiotissa vs Omonia Aradippou</title>
     <desc>soccer - Cyprus - First Division : Karmiotissa vs Omonia Aradippou</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="808">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="808">
     <title>Denmark - Super Liga : SønderjyskE vs AaB</title>
     <desc>soccer - Denmark - Super Liga : SønderjyskE vs AaB</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="912">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="912">
     <title>Greece - Super League : Lamia vs Levadiakos</title>
     <desc>soccer - Greece - Super League : Lamia vs Levadiakos</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="128">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="128">
     <title>UEFA Women's Under-17 Championship : Poland U17 vs Italy U17</title>
     <desc>soccer - UEFA Women's Under-17 Championship : Poland U17 vs Italy U17</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="92">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="92">
     <title>UEFA Women's Under-17 Championship : Poland U17 vs Italy U17</title>
     <desc>soccer - UEFA Women's Under-17 Championship : Poland U17 vs Italy U17</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="454">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="454">
     <title>Super Lig : Kasımpaşa vs Trabzonspor</title>
     <desc>soccer - Super Lig : Kasımpaşa vs Trabzonspor</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="494">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="494">
     <title>Super Lig : Kasımpaşa vs Trabzonspor</title>
     <desc>soccer - Super Lig : Kasımpaşa vs Trabzonspor</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T130000 +0000" stop="20250505T150000 +0000" channel="260">
+  <programme start="20250505T170000 +0000" stop="20250505T190000 +0000" channel="260">
     <title>Sweden - Damallsvenskan : Djurgården vs Norrköping</title>
     <desc>soccer - Sweden - Damallsvenskan : Djurgården vs Norrköping</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T131500 +0000" stop="20250505T151500 +0000" channel="781">
+  <programme start="20250505T171500 +0000" stop="20250505T191500 +0000" channel="781">
     <title>Qatar - Emir of Qatar Cup : Al Rayyan vs Lusail City</title>
     <desc>soccer - Qatar - Emir of Qatar Cup : Al Rayyan vs Lusail City</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T131500 +0000" stop="20250505T151500 +0000" channel="95">
+  <programme start="20250505T171500 +0000" stop="20250505T191500 +0000" channel="95">
     <title>Qatar - Emir of Qatar Cup : Al Rayyan vs Lusail City</title>
     <desc>soccer - Qatar - Emir of Qatar Cup : Al Rayyan vs Lusail City</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T133000 +0000" stop="20250505T153000 +0000" channel="400">
+  <programme start="20250505T173000 +0000" stop="20250505T193000 +0000" channel="400">
     <title>Romania - Liga I : FCSB vs Dinamo Bucureşti</title>
     <desc>soccer - Romania - Liga I : FCSB vs Dinamo Bucureşti</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T133000 +0000" stop="20250505T153000 +0000" channel="581">
+  <programme start="20250505T173000 +0000" stop="20250505T193000 +0000" channel="581">
     <title>Romania - Liga I : FCSB vs Dinamo Bucureşti</title>
     <desc>soccer - Romania - Liga I : FCSB vs Dinamo Bucureşti</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T140000 +0000" stop="20250505T160000 +0000" channel="96">
+  <programme start="20250505T180000 +0000" stop="20250505T200000 +0000" channel="96">
     <title>Africa U-20 Cup of Nations : Ghana U20 vs Senegal U20</title>
     <desc>soccer - Africa U-20 Cup of Nations : Ghana U20 vs Senegal U20</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="539">
+  <programme start="20250505T183000 +0000" stop="20250505T203000 +0000" channel="539">
     <title>Spain - Segunda Division : CD Castellon vs Sporting Gijón</title>
     <desc>soccer - Spain - Segunda Division : CD Castellon vs Sporting Gijón</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="915">
+  <programme start="20250505T183000 +0000" stop="20250505T203000 +0000" channel="915">
     <title>Spain - Segunda Division : CD Castellon vs Sporting Gijón</title>
     <desc>soccer - Spain - Segunda Division : CD Castellon vs Sporting Gijón</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="430">
+  <programme start="20250505T183000 +0000" stop="20250505T203000 +0000" channel="430">
     <title>Spain - Segunda Division : CD Castellon vs Sporting Gijón</title>
     <desc>soccer - Spain - Segunda Division : CD Castellon vs Sporting Gijón</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="580">
+  <programme start="20250505T183000 +0000" stop="20250505T203000 +0000" channel="580">
     <title>Spain - Segunda Division : CD Castellon vs Sporting Gijón</title>
     <desc>soccer - Spain - Segunda Division : CD Castellon vs Sporting Gijón</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T143000 +0000" stop="20250505T163000 +0000" channel="637">
+  <programme start="20250505T183000 +0000" stop="20250505T203000 +0000" channel="637">
     <title>Spain - Segunda Division : CD Castellon vs Sporting Gijón</title>
     <desc>soccer - Spain - Segunda Division : CD Castellon vs Sporting Gijón</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="74">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="74">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="71">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="71">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="401">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="401">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="914">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="914">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="433">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="433">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="810">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="810">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T144500 +0000" stop="20250505T164500 +0000" channel="141">
+  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="141">
     <title>Italy - Serie A : Genoa vs Milan</title>
     <desc>soccer - Italy - Serie A : Genoa vs Milan</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="343">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="343">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="595">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="595">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="556">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="556">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="488">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="488">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="463">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="463">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="402">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="402">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="913">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="913">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="599">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="599">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="434">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="434">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="466">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="466">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="572">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="572">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="91">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="91">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="61">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="61">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="140">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="140">
     <title>England - Premier League : Crystal Palace vs Nottingham Forest</title>
     <desc>soccer - England - Premier League : Crystal Palace vs Nottingham Forest</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="538">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="538">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="530">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="530">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="276">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="276">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="451">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="451">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="428">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="428">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="495">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="495">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="375">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="375">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="403">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="403">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="631">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="631">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="93">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="93">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="90">
+  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="90">
     <title>Spain - La Liga : Girona vs Mallorca</title>
     <desc>soccer - Spain - La Liga : Girona vs Mallorca</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T151500 +0000" stop="20250505T171500 +0000" channel="49">
+  <programme start="20250505T191500 +0000" stop="20250505T211500 +0000" channel="49">
     <title>Portugal - Primeira Liga : AVS vs Boavista</title>
     <desc>soccer - Portugal - Primeira Liga : AVS vs Boavista</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T151500 +0000" stop="20250505T171500 +0000" channel="142">
+  <programme start="20250505T191500 +0000" stop="20250505T211500 +0000" channel="142">
     <title>Portugal - Primeira Liga : AVS vs Boavista</title>
     <desc>soccer - Portugal - Primeira Liga : AVS vs Boavista</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T172000 +0000" stop="20250505T192000 +0000" channel="66">
+  <programme start="20250505T212000 +0000" stop="20250505T232000 +0000" channel="66">
     <title>CONMEBOL Sub-17 Femenina 2025 : Peru U17 vs Bolivia U17</title>
     <desc>soccer - CONMEBOL Sub-17 Femenina 2025 : Peru U17 vs Bolivia U17</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T200000 +0000" stop="20250505T220000 +0000" channel="66">
+  <programme start="20250506T000000 +0000" stop="20250506T020000 +0000" channel="66">
     <title>CONMEBOL Sub-17 Femenina 2025 : Ecuador U17 vs. Uruguay U17</title>
     <desc>soccer - CONMEBOL Sub-17 Femenina 2025 : Ecuador U17 vs. Uruguay U17</desc>
     <category>soccer</category>
   </programme>
-  <programme start="20250505T110000 +0000" stop="20250505T130000 +0000" channel="432">
+  <programme start="20250505T150000 +0000" stop="20250505T170000 +0000" channel="432">
     <title>Süper Ligi : Anadolu Efes vs Besiktas</title>
     <desc>basketball - Süper Ligi : Anadolu Efes vs Besiktas</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T113000 +0000" stop="20250505T133000 +0000" channel="148">
+  <programme start="20250505T153000 +0000" stop="20250505T173000 +0000" channel="148">
     <title>Super League : Hapoel Haifa vs Ironi Kiryat Ata</title>
     <desc>basketball - Super League : Hapoel Haifa vs Ironi Kiryat Ata</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="429">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="429">
     <title>ABA League : KK Studentski centar Podgorica vs. KK Borac Cacak</title>
     <desc>basketball - ABA League : KK Studentski centar Podgorica vs. KK Borac Cacak</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="432">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="432">
     <title>ABA League : KK Studentski centar Podgorica vs. KK Borac Cacak</title>
     <desc>basketball - ABA League : KK Studentski centar Podgorica vs. KK Borac Cacak</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="146">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="146">
     <title>Israel National League : Hapoel Ramat Gan Givataim vs Hapoel Petach Tikva</title>
     <desc>basketball - Israel National League : Hapoel Ramat Gan Givataim vs Hapoel Petach Tikva</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T123000 +0000" stop="20250505T143000 +0000" channel="430">
+  <programme start="20250505T163000 +0000" stop="20250505T183000 +0000" channel="430">
     <title>VTB United League : Zenit Petersburg vs Lokomotiv Kuban</title>
     <desc>basketball - VTB United League : Zenit Petersburg vs Lokomotiv Kuban</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T120000 +0000" stop="20250505T140000 +0000" channel="140">
+  <programme start="20250505T160000 +0000" stop="20250505T180000 +0000" channel="140">
     <title>Süper Ligi : Turk Telekom vs Merkezefendi</title>
     <desc>basketball - Süper Ligi : Turk Telekom vs Merkezefendi</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T135000 +0000" stop="20250505T155000 +0000" channel="146">
+  <programme start="20250505T175000 +0000" stop="20250505T195000 +0000" channel="146">
     <title>Super League : Elitzur Netanya vs Hapoel Afula</title>
     <desc>basketball - Super League : Elitzur Netanya vs Hapoel Afula</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T135000 +0000" stop="20250505T155000 +0000" channel="148">
+  <programme start="20250505T175000 +0000" stop="20250505T195000 +0000" channel="148">
     <title>Super League : Elitzur Netanya vs Hapoel Afula</title>
     <desc>basketball - Super League : Elitzur Netanya vs Hapoel Afula</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="338">
+  <programme start="20250505T230000 +0000" stop="20250506T010000 +0000" channel="338">
     <title>NBA : New York Knicks vs Boston Celtics</title>
     <desc>basketball - NBA : New York Knicks vs Boston Celtics</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="113">
+  <programme start="20250505T230000 +0000" stop="20250506T010000 +0000" channel="113">
     <title>NBA : New York Knicks vs Boston Celtics</title>
     <desc>basketball - NBA : New York Knicks vs Boston Celtics</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="114">
+  <programme start="20250505T230000 +0000" stop="20250506T010000 +0000" channel="114">
     <title>NBA : New York Knicks vs Boston Celtics</title>
     <desc>basketball - NBA : New York Knicks vs Boston Celtics</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T213000 +0000" stop="20250505T233000 +0000" channel="338">
+  <programme start="20250506T013000 +0000" stop="20250506T033000 +0000" channel="338">
     <title>NBA : Oklahoma City Thunder vs Denver Nuggets</title>
     <desc>basketball - NBA : Oklahoma City Thunder vs Denver Nuggets</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T213000 +0000" stop="20250505T233000 +0000" channel="379">
+  <programme start="20250506T013000 +0000" stop="20250506T033000 +0000" channel="379">
     <title>NBA : Oklahoma City Thunder vs Denver Nuggets</title>
     <desc>basketball - NBA : Oklahoma City Thunder vs Denver Nuggets</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T213000 +0000" stop="20250505T233000 +0000" channel="144">
+  <programme start="20250506T013000 +0000" stop="20250506T033000 +0000" channel="144">
     <title>NBA : Oklahoma City Thunder vs Denver Nuggets</title>
     <desc>basketball - NBA : Oklahoma City Thunder vs Denver Nuggets</desc>
     <category>basketball</category>
   </programme>
-  <programme start="20250505T190000 +0000" stop="20250505T210000 +0000" channel="664">
+  <programme start="20250505T230000 +0000" stop="20250506T010000 +0000" channel="664">
     <title>College Baseball : Vanderbilt vs Louisville</title>
     <desc>baseball - College Baseball : Vanderbilt vs Louisville</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="260">
+  <programme start="20250505T224500 +0000" stop="20250506T004500 +0000" channel="260">
     <title>MLB : Washington Nationals vs Cleveland Guardians</title>
     <desc>baseball - MLB : Washington Nationals vs Cleveland Guardians</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="829">
+  <programme start="20250505T224500 +0000" stop="20250506T004500 +0000" channel="829">
     <title>MLB : Washington Nationals vs Cleveland Guardians</title>
     <desc>baseball - MLB : Washington Nationals vs Cleveland Guardians</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T184500 +0000" stop="20250505T204500 +0000" channel="146">
+  <programme start="20250505T224500 +0000" stop="20250506T004500 +0000" channel="146">
     <title>MLB : Washington Nationals vs Cleveland Guardians</title>
     <desc>baseball - MLB : Washington Nationals vs Cleveland Guardians</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T190500 +0000" stop="20250505T210500 +0000" channel="31">
+  <programme start="20250505T230500 +0000" stop="20250506T010500 +0000" channel="31">
     <title>MLB : New York Yankees vs San Diego Padres</title>
     <desc>baseball - MLB : New York Yankees vs San Diego Padres</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T190500 +0000" stop="20250505T210500 +0000" channel="112">
+  <programme start="20250505T230500 +0000" stop="20250506T010500 +0000" channel="112">
     <title>MLB : New York Yankees vs San Diego Padres</title>
     <desc>baseball - MLB : New York Yankees vs San Diego Padres</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T190500 +0000" stop="20250505T210500 +0000" channel="399">
+  <programme start="20250505T230500 +0000" stop="20250506T010500 +0000" channel="399">
     <title>MLB : New York Yankees vs San Diego Padres</title>
     <desc>baseball - MLB : New York Yankees vs San Diego Padres</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T190500 +0000" stop="20250505T210500 +0000" channel="839">
+  <programme start="20250505T230500 +0000" stop="20250506T010500 +0000" channel="839">
     <title>MLB : New York Yankees vs San Diego Padres</title>
     <desc>baseball - MLB : New York Yankees vs San Diego Padres</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T194000 +0000" stop="20250505T214000 +0000" channel="921">
+  <programme start="20250505T234000 +0000" stop="20250506T014000 +0000" channel="921">
     <title>MLB : Milwaukee Brewers vs Houston Astros</title>
     <desc>baseball - MLB : Milwaukee Brewers vs Houston Astros</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T194000 +0000" stop="20250505T214000 +0000" channel="32">
+  <programme start="20250505T234000 +0000" stop="20250506T014000 +0000" channel="32">
     <title>MLB : Chicago Cubs vs San Francisco Giants</title>
     <desc>baseball - MLB : Chicago Cubs vs San Francisco Giants</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T194000 +0000" stop="20250505T214000 +0000" channel="112">
+  <programme start="20250505T234000 +0000" stop="20250506T014000 +0000" channel="112">
     <title>MLB : Chicago Cubs vs San Francisco Giants</title>
     <desc>baseball - MLB : Chicago Cubs vs San Francisco Giants</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T194500 +0000" stop="20250505T214500 +0000" channel="922">
+  <programme start="20250505T234500 +0000" stop="20250506T014500 +0000" channel="922">
     <title>MLB : St. Louis Cardinals vs Pittsburgh Pirates</title>
     <desc>baseball - MLB : St. Louis Cardinals vs Pittsburgh Pirates</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T214000 +0000" stop="20250505T234000 +0000" channel="495">
+  <programme start="20250506T014000 +0000" stop="20250506T034000 +0000" channel="495">
     <title>MLB : Arizona Diamondbacks vs New York Mets</title>
     <desc>baseball - MLB : Arizona Diamondbacks vs New York Mets</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T214000 +0000" stop="20250505T234000 +0000" channel="146">
+  <programme start="20250506T014000 +0000" stop="20250506T034000 +0000" channel="146">
     <title>MLB : Arizona Diamondbacks vs New York Mets</title>
     <desc>baseball - MLB : Arizona Diamondbacks vs New York Mets</desc>
     <category>baseball</category>
   </programme>
-  <programme start="20250505T193000 +0000" stop="20250505T213000 +0000" channel="419">
+  <programme start="20250505T233000 +0000" stop="20250506T013000 +0000" channel="419">
     <title>WWE Monday Night RAW</title>
     <desc>wwe - WWE Monday Night RAW</desc>
     <category>wwe</category>
   </programme>
-  <programme start="20250505T193000 +0000" stop="20250505T213000 +0000" channel="412">
+  <programme start="20250505T233000 +0000" stop="20250506T013000 +0000" channel="412">
     <title>WWE Monday Night RAW</title>
     <desc>wwe - WWE Monday Night RAW</desc>
     <category>wwe</category>
